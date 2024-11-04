@@ -9,7 +9,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://portfolio-ashifahamad.netlify.app/)**
+To view my Portfolio: **[click here](https://portfolio-ashifahamad.netlify.app/)**
 
 ---
 
